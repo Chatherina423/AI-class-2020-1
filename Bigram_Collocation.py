@@ -22,7 +22,7 @@ def myCollocation(myText):
 
 
 print("\n")
-print("=====this is the result of myBigram========")
+print("=====this is the result of myBigram=========")
 print(myBigram(myList))
 print("===============================================")
 
